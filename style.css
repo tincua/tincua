@@ -376,6 +376,10 @@ section.contato{
         margin-bottom: 20px;
     }
 
+    header{
+        width: 100%;
+    }
+
     .menu{
         display: none;
     }
