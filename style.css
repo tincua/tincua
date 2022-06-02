@@ -380,6 +380,10 @@ section.contato{
         width: 100%;
     }
 
+    main{
+        width: 100%;
+    }
+
     .menu{
         display: none;
     }
