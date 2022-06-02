@@ -376,20 +376,16 @@ section.contato{
         margin-bottom: 20px;
     }
 
-    header{
-        width: 100%;
-    }
-
-    main{
-        width: 100%;
-    }
-
     .menu{
         display: none;
     }
 
     .logo{
         width: 40%;
+    }
+
+    .main_cta{
+        width: 100%;
     }
 
     .main_cta img{
