@@ -403,6 +403,7 @@ section.contato{
         display: block;
     }
     .menu-mobile i{
+        width: 100%;
         cursor: pointer;
         font-size: 23px;
         margin-top: 4px;
