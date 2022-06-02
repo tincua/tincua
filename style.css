@@ -386,24 +386,22 @@ section.contato{
     }
     
     .main_cta img{
-        max-width: 600px;
-        max-height: 600px;
+        max-width: 650px;
+        max-height: 650px;
     }
 
     .main_cta p{
-        font-size: 40px;
+        font-size: 60px;
     }
+
 
     .logo{
         width: 40%;
     }
 
     .logo h2{
-        font-size: 40px;
+        font-size: 50px;
     }
-
-    
-
 
     .menu-mobile{
         width: 60%;
@@ -412,7 +410,7 @@ section.contato{
     }
     .menu-mobile i{
         cursor: pointer;
-        font-size: 40px;
+        font-size: 50px;
         margin-top: 4px;
         color: #ffffff;
     }
@@ -422,7 +420,7 @@ section.contato{
     }
 
     .menu-items a{
-        font-size: 25px;
+        font-size: 35px;
     }
 
     .conteudo-sobre p{
