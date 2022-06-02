@@ -376,6 +376,10 @@ section.contato{
         margin-bottom: 20px;
     }
 
+    .center{
+        width: 100%;
+    }
+
     .menu{
         display: none;
     }
@@ -395,10 +399,9 @@ section.contato{
     .menu-mobile{
         width: 60%;
         text-align: right;
-        display:flex;
+        display: block;
     }
     .menu-mobile i{
-        width: 100%;
         cursor: pointer;
         font-size: 23px;
         margin-top: 4px;
