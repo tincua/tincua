@@ -381,7 +381,7 @@ section.contato{
     }
 
     section.main{
-        padding: 200px 0;
+        padding: 250px 0;
 
     }
     
@@ -391,6 +391,10 @@ section.contato{
     }
 
     .main_cta p{
+        font-size: 60px;
+    }
+
+    .main_cta span{
         font-size: 60px;
     }
 
@@ -416,7 +420,7 @@ section.contato{
     }
 
     .menu-items{
-        top: 90px;
+        top: 115px;
     }
 
     .menu-items a{
