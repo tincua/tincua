@@ -239,14 +239,14 @@ section.social{
 }
 
 .social-single a{
-    color: #07a4ff;
+    color: #52ff4d;
     text-decoration: none;
     font-size: 18px; /*16px*/
     float: center;
 }
 
 .social-single a:hover{
-    color: #66a2e7;
+    color: #96f88d;
     transition: 0.5s;
 }
 
